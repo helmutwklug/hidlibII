@@ -1,0 +1,437 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://glossa.uni-graz.at/o:malab.2353",
+    "@type": "sc:Manifest",
+    "label": "Description of Fragents",
+    "metadata": [{
+        "label": "msIdentifier",
+        "value": "###, ###, ###, ###"
+    }],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "license": "",
+    "attribution": "Karl-Franzens-Universität Graz. . http://www.uni-graz.at",
+    "logo": "",
+    "seeAlso": "https://glossa.uni-graz.at/o:malab.2353/METS_SOURCE",
+    "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "@id": "https://glossa.uni-graz.at/iiif/",
+        "profile": "http://iiif.io/api/image/2/level2.json"
+    },
+    "sequences": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "https://glossa.uni-graz.at/o:malab.2353/sequence/physical",
+        "@type": "sc:Sequence",
+        "label": "Physical structure",
+        "viewingDirection": "left-to-right",
+        "startCanvas": "",
+        "canvases": [
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_52.6-7",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 1138,
+                "width": 3941,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_52.6-7",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_52.6-7",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 1138,
+                        "width": 3941
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_52.6-7"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_53.7-8",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 1367,
+                "width": 3813,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_53.7-8",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_53.7-8",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 1367,
+                        "width": 3813
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_53.7-8"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_58.6-7",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 1375,
+                "width": 3864,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_58.6-7",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_58.6-7",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 1375,
+                        "width": 3864
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_58.6-7"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_58.13-14",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 1384,
+                "width": 3969,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_58.13-14",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_58.13-14",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 1384,
+                        "width": 3969
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_58.13-14"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_56.8-9.jpg",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 813,
+                "width": 3844,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_56.8-9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_56.8-9.jpg",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 813,
+                        "width": 3844
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_56.8-9.jpg"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_59.11-12",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 810,
+                "width": 4004,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_59.11-12",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_59.11-12",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 810,
+                        "width": 4004
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_59.11-12"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_106.25-26",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 864,
+                "width": 3934,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_106.25-26",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_106.25-26",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 864,
+                        "width": 3934
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_106.25-26"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_106.35-36",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 936,
+                "width": 3975,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_106.35-36",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_106.35-36",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 936,
+                        "width": 3975
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_106.35-36"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_106.27-29",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 1070,
+                "width": 4019,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_106.27-29",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_106.27-29",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 1070,
+                        "width": 4019
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_106.27-29"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_106.37-39",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 1148,
+                "width": 3909,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_106.37-39",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_106.37-39",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 1148,
+                        "width": 3909
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_106.37-39"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_107.4-6",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 1181,
+                "width": 4026,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_107.4-6",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_107.4-6",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 1181,
+                        "width": 4026
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_107.4-6"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_107.13-14",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 1319,
+                "width": 4030,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_107.13-14",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_107.13-14",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 1319,
+                        "width": 4030
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_107.13-14"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ex_15.8-9",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 817,
+                "width": 4005,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ex_15.8-9",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ex_15.8-9",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 817,
+                        "width": 4005
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ex_15.8-9"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ex_15.15",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 750,
+                "width": 4009,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ex_15.15",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ex_15.15",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 750,
+                        "width": 4009
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ex_15.15"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_148.7-8",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 854,
+                "width": 4016,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_148.7-8",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_148.7-8",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 854,
+                        "width": 4016
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_148.7-8"
+                }]
+            },
+            {
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@id": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_149.2-4",
+                "@type": "sc:Canvas",
+                "label": "",
+                "height": 877,
+                "width": 3988,
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://gams.uni-graz.at/o:malab.2353/ps_149.2-4",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://glossa.uni-graz.at/iiif/o:malab.2353/ps_149.2-4",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "height": 877,
+                        "width": 3988
+                    },
+                    "on": "https://glossa.uni-graz.at/o:malab.2353/canvas/malab.2353_ps_149.2-4"
+                }]
+            }
+        ]
+    }],
+    "structures": [{
+        "@id": "https://glossa.uni-graz.at/o:malab.2353/range/LOG.1",
+        "@type": "sc:Range",
+        "label": "monograph",
+        "viewingHint": "top"
+    }]
+}
